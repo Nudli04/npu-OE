@@ -1,16 +1,18 @@
-Neptun PowerUp!
+Neptun PowerUp! - Óbudai Egyetem
 ===============
 
-Ez a **Neptun PowerUp!** hivatalos oldala.
+Ez a Neptun PowerUp! **NEM** hivatalos forkja.
 
+Mivel Óbudai Egyetem specifikus a Captcha modal ami megnyílik és a korábbi hibát okozta, így azt éreztem, hogy egy sima pull request a fő npu-ba nem lenne illő, ezért létre hoztam ezt a forkot. 
+===============
 A program **felturbózza a Neptun-odat**: gyorsabb tárgy- és vizsgafelvétel, kidobás elleni védelem, automatikus belépés, könnyebben kezelhető felület, tárolható belépési adatok, és még sok más. 25 egyetem és főiskola **több mint 15 ezer** diákjának életét könnyíti meg már 2011 óta.
 
 ## Legújabb verzió
 
-* Legfrissebb verzió: **2.4.0**
-* Kiadás dátuma: **2022. december 9.**
+* Legfrissebb verzió: **2.4.1**
+* Kiadás dátuma: **2024. augusztus 21.**
 
-Ha tudod, mit csinálsz, [kattints ide a telepítéshez](https://github.com/solymosi/npu/releases/latest/download/npu.user.js).<br>
+Ha tudod, mit csinálsz, [kattints ide a telepítéshez](https://github.com/Nudli04/npu-OE/releases/latest/download/npu-oe.user.js).<br>
 Egyébként olvasd el lent a telepítési útmutatót.
 
 ## Telepítés
@@ -25,6 +27,7 @@ A telepítéssel elfogadod a [használat feltételeit](#licensz) és az [adatvé
     * [Új Microsoft Edge](https://microsoftedge.microsoft.com/insider-addons/detail/iikmkjmpaadaobahmlepeloendndfphd)
     * [Opera](https://addons.opera.com/en/extensions/details/tampermonkey-beta)
     * [Safari](https://apps.apple.com/us/app/tampermonkey/id1482490089)
+1. **FONTOS!!** Kapcsold be a fejlesztői módot ha a böngésződ Chrome alapú. További infó [itt](https://www.tampermonkey.net/faq.php?locale=en#Q209). 
 1. Most már telepítheted a Neptun PowerUp! szkriptet. Ehhez [kattints ide](https://github.com/solymosi/npu/releases/latest/download/npu.user.js).
 1. A megjelenő oldalon kattints az **Install** gombra.
 1. Lépj be a Neptun-ra, és használd egészséggel.
@@ -100,6 +103,10 @@ A Neptun fejléce alapesetben a képernyő harmadát elfoglalja, ami kis képern
 Eleged van abból, hogy minden egyes alkalommal be kell állítanod, hogy 500 elemet akarsz látni egy oldalon a 20 helyett? A Neptun PowerUp! automatikusan 500 elemet jelenít meg minden listában, és eltünteti az oldalméret-választó menüt.
 
 ## Újdonságok
+#### 2024. agusztus 21.
+
+* **Javítva:** Captcha modal mostmár rendesen megjelenik az Óbudai Egyetem Neptun oldalán
+– _Nudli04_
 
 #### 2022. december 9.
 
