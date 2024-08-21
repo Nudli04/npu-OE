@@ -4,7 +4,7 @@ Neptun PowerUp! - Óbudai Egyetem
 Ez a Neptun PowerUp! **NEM** hivatalos forkja.
 
 Mivel Óbudai Egyetem specifikus a Captcha modal ami megnyílik és a korábbi hibát okozta, így azt éreztem, hogy egy sima pull request a fő npu-ba nem lenne illő, ezért létre hoztam ezt a forkot. 
-===============
+---
 A program **felturbózza a Neptun-odat**: gyorsabb tárgy- és vizsgafelvétel, kidobás elleni védelem, automatikus belépés, könnyebben kezelhető felület, tárolható belépési adatok, és még sok más. 25 egyetem és főiskola **több mint 15 ezer** diákjának életét könnyíti meg már 2011 óta.
 
 ## Legújabb verzió
