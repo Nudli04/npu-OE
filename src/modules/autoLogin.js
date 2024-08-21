@@ -223,7 +223,7 @@ function hideSelect() {
 
 // Submit the login form
 function submitLogin() {
-  unsafeWindow.docheck();
+  unsafeWindow.initializePasswordResetModalStep3();
 }
 
 module.exports = {
