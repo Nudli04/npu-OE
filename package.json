@@ -1,8 +1,8 @@
 {
-  "name": "npu-OE",
-  "version": "2.4.0",
+  "name": "npu-oe",
+  "version": "2.4.1",
   "description": "Felturbózza a Neptun-odat",
-  "main": "npu.user.js",
+  "main": "npu-oe.user.js",
   "scripts": {
     "start": "webpack-cli --watch",
     "build": "webpack-cli",

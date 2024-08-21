@@ -7,7 +7,7 @@ module.exports = {
   entry: "./src/index.js",
   target: "web",
   output: {
-    filename: "npu.user.js",
+    filename: "npu-oe.user.js",
     path: path.resolve(__dirname, "dist"),
     publicPath: "",
   },
